@@ -1,0 +1,4 @@
+github.com/appwrite/sdk-for-go v0.0.0-20240703150753-748203e5536c h1:dT+W+Ujz5cuaEvOe8uVfy0xox8YduBJR6uECkgMOEc8=
+github.com/appwrite/sdk-for-go v0.0.0-20240703150753-748203e5536c/go.mod h1:lLim0S47hdXlLet+GAayvBC7VfVxcsoSZ1F5oymXrmc=
+github.com/open-runtimes/types-for-go/v4 v4.0.0 h1:eMKlziaQVPVtgs2VSi1V/grdw3iGbOca/YrHIwMNUXk=
+github.com/open-runtimes/types-for-go/v4 v4.0.0/go.mod h1:88UUMYovXGRbv5keL4uTKDYMWeNtIKV0BbxDRQ18/xY=
